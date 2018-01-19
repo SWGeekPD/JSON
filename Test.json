@@ -1,5 +1,5 @@
 {
-"regRepColDef" : [{
+"Headers" : [{
 		"Id": "0",
 		"headerName": "",
 		"field": "0"
@@ -62,7 +62,7 @@
 		"field": "k"
 	}
 ],
-"regRepRowData" : [
+"Values" : [
             {
                 "rowHeight": 25,
                 "0": { "text": "1", "backgroundColor": "" }, "a": { "text": "", "backgroundColor": "" }, "b": { "text": "", "backgroundColor": "" }, "c": { "text": "", "backgroundColor": "" }, "d": { "text": "", "backgroundColor": "" }, "e": { "text": "", "backgroundColor": "" }, "f": { "text": "", "backgroundColor": "" }, "g": { "text": "", "backgroundColor": "" }, "h": { "text": "", "backgroundColor": "" }, "i": { "text": "", "backgroundColor": "" }, "j": { "text": "", "backgroundColor": "" }, "k": { "text": "", "backgroundColor": "" }
