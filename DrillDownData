@@ -1,5 +1,5 @@
 {
-"regRepColDef" : [
+"drillDownColDef" : [
       {
         headerName: "Athlete",
         field: "athlete",
@@ -51,7 +51,7 @@
         width: 100
       }
     ],
-"regRepRowData" : [
+"drillDownRowData" : [
   {
     "athlete": "Michael Phelps",
     "age": 23,
