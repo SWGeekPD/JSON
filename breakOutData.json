@@ -1,0 +1,42 @@
+{
+   "drillDownColDef":[
+      {
+         "Id":"1",
+         "headerName":"Athlete",
+         "field":"athlete",
+         "width":"150"
+      },
+      {
+         "Id":"2",
+         "headerName":"Age",
+         "field":"age",
+         "width":"150"
+      }
+   ],
+   "drillDownRowData":[
+      {
+         "athlete":"Michael Phelps",
+         "age":"23",
+         "country":"United States",
+         "year":"2008",
+         "date":"24/08/2008",
+         "sport":"Swimming",
+         "gold":"8",
+         "silver":"0",
+         "bronze":"0",
+         "total":"8"
+      },
+      {
+         "athlete":"Michael Phelps",
+         "age":"23",
+         "country":"United States",
+         "year":"2008",
+         "date":"24/08/2008",
+         "sport":"Swimming",
+         "gold":"8",
+         "silver":"0",
+         "bronze":"0",
+         "total":"8"
+      }
+   ]
+}
