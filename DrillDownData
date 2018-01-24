@@ -1,5 +1,5 @@
 {
-"drillDownColDefs" : [{ "headerName": "Make", field: "make", "width": "300" },
+"drillDownColDef" : [{ "headerName": "Make", field: "make", "width": "300" },
         { "headerName": "Model", "field": "model", "width": "300" },
         { "headerName": "Price", "field": "price", "width": "300" }],
         "drillDownRowData": [
