@@ -1,5 +1,5 @@
 {
-   "drillDownColDef":[
+   "breakOutRepColDef":[
       {
          "Id":"1",
          "headerName":"Athlete",
@@ -13,7 +13,7 @@
          "width":"150"
       }
    ],
-   "drillDownRowData":[
+   "breakOutRepRowData":[
       {
          "athlete":"Michael Phelps",
          "age":"23",
