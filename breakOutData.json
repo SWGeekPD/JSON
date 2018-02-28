@@ -62,23 +62,7 @@
 		"field": "k"
 	}
 ],
-"breakOutRepRowData" : [
-            {
-                "rowHeight": 25,
-                "0": { "text": "1", "backgroundColor": "" }, "a": { "text": "", "backgroundColor": "" }, "b": { "text": "", "backgroundColor": "" }, "c": { "text": "", "backgroundColor": "" }, "d": { "text": "", "backgroundColor": "" }, "e": { "text": "", "backgroundColor": "" }, "f": { "text": "", "backgroundColor": "" }, "g": { "text": "", "backgroundColor": "" }, "h": { "text": "", "backgroundColor": "" }, "i": { "text": "", "backgroundColor": "" }, "j": { "text": "", "backgroundColor": "" }, "k": { "text": "", "backgroundColor": "" }
-            },
-            {
-                "rowHeight": 25,
-                "0": { "text": "2", "backgroundColor": "" }, "a": { "text": "", "backgroundColor": "" }, "b": { "text": "", "backgroundColor": "" }, "c": { "text": "", "backgroundColor": "" }, "d": { "text": "", "backgroundColor": "" }, "e": { "text": "", "backgroundColor": "" }, "f": { "text": "", "backgroundColor": "" }, "g": { "text": "", "backgroundColor": "" }, "h": { "text": "", "backgroundColor": "" }, "i": { "text": "", "backgroundColor": "" }, "j": { "text": "", "backgroundColor": "" }, "k": { "text": "", "backgroundColor": "" }
-            },
-            {
-                "rowHeight": 25,
-                "0": { "text": "3", "backgroundColor": "" }, "a": { "text": "", "backgroundColor": "" }, "b": { "text": "", "backgroundColor": "" }, "c": { "text": "", "backgroundColor": "" }, "d": { "text": "", "backgroundColor": "" }, "e": { "text": "", "backgroundColor": "" }, "f": { "text": "", "backgroundColor": "" }, "g": { "text": "", "backgroundColor": "" }, "h": { "text": "", "backgroundColor": "" }, "i": { "text": "", "backgroundColor": "" }, "j": { "text": "", "backgroundColor": "" }, "k": { "text": "", "backgroundColor": "" }
-            },
-            {
-                "rowHeight": 25,
-                "0": { "text": "4", "backgroundColor": "" }, "a": { "text": "", "backgroundColor": "" }, "b": { "text": "", "backgroundColor": "" }, "c": { "text": "", "backgroundColor": "" }, "d": { "text": "", "backgroundColor": "" }, "e": { "text": "", "backgroundColor": "" }, "f": { "text": "", "backgroundColor": "" }, "g": { "text": "", "backgroundColor": "" }, "h": { "text": "", "backgroundColor": "" }, "i": { "text": "", "backgroundColor": "" }, "j": { "text": "", "backgroundColor": "" }, "k": { "text": "", "backgroundColor": "" }
-            },
+"breakOutRepRowData" : [            
             {
                 "rowHeight": 25,
                 "0":
