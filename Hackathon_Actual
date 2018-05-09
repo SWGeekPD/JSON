@@ -9,7 +9,15 @@
                 "factSubType": "A",
                 "firstQuarter": 10,
                 "secondQuarter": 20,
+                "variance": "100%",
+                "childData":[
+                {
+                "portfolioSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
                 "variance": "100%"
+                }
+                ]
             },
             {
                 "factSubType": "B",
