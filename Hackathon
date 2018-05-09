@@ -1,5 +1,5 @@
 [{
-    "name": "Nora Thomas",
+    "name": "Exposure Before On balance sheet amount",
     "account": 177000,
     "calls": 24,
     "minutes": 25.65,
@@ -174,7 +174,7 @@
     }]
 },
     {
-        "name": "Mila Smith",
+        "name": "RWAs",
         "account": 177001,
         "calls": 24,
         "minutes": 26.216666666666665,
