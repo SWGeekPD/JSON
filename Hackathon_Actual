@@ -15,9 +15,17 @@
                 "portfolioSubType": "A",
                 "firstQuarter": 10,
                 "secondQuarter": 20,
+                "variance": "100%",
+                 "childData2":[
+                {
+                "rwaSubTypes": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
                 "variance": "100%"
                 }
-                ]
+               ]
+              }
+             ]
             },
             {
                 "factSubType": "B",
