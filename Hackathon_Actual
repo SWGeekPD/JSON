@@ -1,0 +1,132 @@
+[
+    {
+        "facts": "RWAs",
+        "firstQuarter": 19945.7064,
+        "secondQuarter": 19945.7064,
+        "variance": "Value changed 0.0000 - (0%)",
+        "childData": [
+            {
+                "factSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
+                "variance": "100%"
+            },
+            {
+                "factSubType": "B",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
+                "variance": "100%"
+            },
+            {
+                "factSubType": "C",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
+                "variance": "100%"
+            }
+        ]
+    },
+    {
+        "facts": "Exposure before on balance sheet amount",
+        "firstQuarter": 22601260.2814,
+        "secondQuarter": 22601260.2814,
+        "variance": "Value changed 0.0000 - (0%)",
+        "childData": [
+            {
+                "factSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
+                "variance": "100%"
+            },
+            {
+                "factSubType": "B",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
+                "variance": "100%"
+            },
+            {
+                "factSubType": "C",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
+                "variance": "100%"
+            }
+        ]
+    },
+    {
+        "facts": "Exposure before off balance sheet amount",
+        "firstQuarter": 80237.73,
+        "secondQuarter": 80237.73,
+        "variance": "Value changed 0.0000 - (0%)",
+        "childData": [
+            {
+                "factSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
+                "variance": "100%"
+            },
+            {
+                "factSubType": "B",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
+                "variance": "100%"
+            },
+            {
+                "factSubType": "C",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
+                "variance": "100%"
+            }
+        ]
+    },
+    {
+        "facts": "Exposure post CCF on balance sheet amount",
+        "firstQuarter": 22601260.2814,
+        "secondQuarter": 22601260.2814,
+        "variance": "Value changed 0.0000 - (0%)",
+        "childData": [
+            {
+                "factSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
+                "variance": "100%"
+            },
+            {
+                "factSubType": "B",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
+                "variance": "100%"
+            },
+            {
+                "factSubType": "C",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
+                "variance": "100%"
+            }
+        ]
+    },
+    {
+        "facts": "Exposure post CCF off balance sheet amount",
+        "firstQuarter": 33445.0795,
+        "secondQuarter": 33445.0795,
+        "variance": "Value changed 0.0000 - (0%)",
+        "childData": [
+            {
+                "factSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
+                "variance": "100%"
+            },
+            {
+                "factSubType": "B",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
+                "variance": "100%"
+            },
+            {
+                "factSubType": "C",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
+                "variance": "100%"
+            }
+        ]
+    }
+]
