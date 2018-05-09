@@ -10,7 +10,7 @@
                 "firstQuarter": 10,
                 "secondQuarter": 20,
                 "variance": "100%",
-                "childData":[
+                "childData1":[
                 {
                 "portfolioSubType": "A",
                 "firstQuarter": 10,
@@ -23,13 +23,27 @@
                 "factSubType": "B",
                 "firstQuarter": 10,
                 "secondQuarter": 20,
+                "variance": "100%",
+                 {
+                "portfolioSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
                 "variance": "100%"
+                }
+                ]
             },
             {
                 "factSubType": "C",
                 "firstQuarter": 10,
                 "secondQuarter": 20,
+                "variance": "100%",
+                 {
+                "portfolioSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
                 "variance": "100%"
+                }
+                ]
             }
         ]
     },
@@ -43,19 +57,40 @@
                 "factSubType": "A",
                 "firstQuarter": 10,
                 "secondQuarter": 20,
+                "variance": "100%",
+                 {
+                "portfolioSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
                 "variance": "100%"
+                }
+                ]
             },
             {
                 "factSubType": "B",
                 "firstQuarter": 10,
                 "secondQuarter": 20,
+                "variance": "100%",
+                 {
+                "portfolioSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
                 "variance": "100%"
+                }
+                ]
             },
             {
                 "factSubType": "C",
                 "firstQuarter": 10,
                 "secondQuarter": 20,
+                "variance": "100%",
+                 {
+                "portfolioSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
                 "variance": "100%"
+                }
+                ]
             }
         ]
     },
@@ -69,19 +104,40 @@
                 "factSubType": "A",
                 "firstQuarter": 10,
                 "secondQuarter": 20,
+                "variance": "100%",
+                 {
+                "portfolioSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
                 "variance": "100%"
+                }
+                ]
             },
             {
                 "factSubType": "B",
                 "firstQuarter": 10,
                 "secondQuarter": 20,
+                "variance": "100%",
+                 {
+                "portfolioSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
                 "variance": "100%"
+                }
+                ]
             },
             {
                 "factSubType": "C",
                 "firstQuarter": 10,
                 "secondQuarter": 20,
+                "variance": "100%",
+                 {
+                "portfolioSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
                 "variance": "100%"
+                }
+                ]
             }
         ]
     },
@@ -95,19 +151,40 @@
                 "factSubType": "A",
                 "firstQuarter": 10,
                 "secondQuarter": 20,
+                "variance": "100%",
+                 {
+                "portfolioSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
                 "variance": "100%"
+                }
+                ]
             },
             {
                 "factSubType": "B",
                 "firstQuarter": 10,
                 "secondQuarter": 20,
+                "variance": "100%",
+                 {
+                "portfolioSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
                 "variance": "100%"
+                }
+                ]
             },
             {
                 "factSubType": "C",
                 "firstQuarter": 10,
                 "secondQuarter": 20,
+                "variance": "100%",
+                 {
+                "portfolioSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
                 "variance": "100%"
+                }
+                ]
             }
         ]
     },
@@ -121,19 +198,40 @@
                 "factSubType": "A",
                 "firstQuarter": 10,
                 "secondQuarter": 20,
+                "variance": "100%",
+                 {
+                "portfolioSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
                 "variance": "100%"
+                }
+                ]
             },
             {
                 "factSubType": "B",
                 "firstQuarter": 10,
                 "secondQuarter": 20,
+                "variance": "100%",
+                 {
+                "portfolioSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
                 "variance": "100%"
+                }
+                ]
             },
             {
                 "factSubType": "C",
                 "firstQuarter": 10,
                 "secondQuarter": 20,
+                "variance": "100%",
+                 {
+                "portfolioSubType": "A",
+                "firstQuarter": 10,
+                "secondQuarter": 20,
                 "variance": "100%"
+                }
+                ]
             }
         ]
     }
