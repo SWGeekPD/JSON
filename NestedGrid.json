@@ -3,13 +3,6 @@
     "account": 177000,
     "calls": 24,
     "minutes": 25.65,
-	"callRecordsColumn":[
-            { "field": "callId" },
-            { "field": "direction" },
-            { "field": "number" },
-            { "field": "duration"},
-            { "field": "switchCode" }
-          ],
     "callRecords": [{
         "name": "susan",
         "callId": 555,
@@ -184,14 +177,6 @@
         "name": "Mila Smith",
         "account": 177001,
         "calls": 24,
-        "minutes": 26.216666666666665,
-		"callRecordsColumn":[
-            { "field": "callId1" },
-            { "field": "direction1" },
-            { "field": "number1" },
-            { "field": "duration1" },
-            { "field": "switchCode1" }
-          ],
         "callRecords": [{
             "name": "susan",
             "callId1": 579,
