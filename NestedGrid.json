@@ -7,10 +7,7 @@
             { "field": "callId" },
             { "field": "direction" },
             { "field": "number" },
-            {
-              "field": "duration",
-              valueFormatter: 'x.toLocaleString() + "s"'
-            },
+            { "field": "duration"},
             { "field": "switchCode" }
           ],
     "callRecords": [{
@@ -192,10 +189,7 @@
             { "field": "callId1" },
             { "field": "direction1" },
             { "field": "number1" },
-            {
-              "field": "duration1",
-              valueFormatter: 'x.toLocaleString() + "s"'
-            },
+            { "field": "duration1" },
             { "field": "switchCode1" }
           ],
         "callRecords": [{
